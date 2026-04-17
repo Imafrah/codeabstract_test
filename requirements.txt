@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+pydantic
+cryptography
+astor
+pytest
+pytest-cov
+black
+ruff
